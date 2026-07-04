@@ -21,9 +21,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
-- [Poetry 诗词组件：更适合排版短诗与摘句](https://blog.081531.xyz/posts/poetry-component/)
 - [LinkCard 链接卡片组件：小而精致的资源推荐块](https://blog.081531.xyz/posts/linkcard-component/)
 - [Pic 图片组件：带说明文字与灯箱缩放](https://blog.081531.xyz/posts/pic-component/)
+- [Poetry 诗词组件：更适合排版短诗与摘句](https://blog.081531.xyz/posts/poetry-component/)
 - [Tip 提示组件：一条能悬浮提示、也能点击复制的小提示](https://blog.081531.xyz/posts/tip-component/)
 - [LinkBanner 链接横幅组件：图片卡片式外链展示](https://blog.081531.xyz/posts/linkbanner-component/)
 <!-- BLOG-POST-LIST:END -->
